@@ -38,7 +38,7 @@ if __name__ == "__main__":
     app.run(debug=True)
 
 
-
+# this is the git commend by sami 
 
 import psycopg2
 
