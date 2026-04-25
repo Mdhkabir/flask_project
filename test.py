@@ -1,5 +1,7 @@
 from flask import Flask, render_template, request
-import db   # keep this
+
+
+import db   # keep this for the database
 
 app = Flask(__name__)
 
